@@ -1,2 +1,6 @@
-# WEB-CRAWLER-SELF-PROJECT-
-A web application that collects data (news stories) from various websites and it places all of the data in one location. It searches the internet for articles. The article's photos, links, and title are then stored using DJango. The client is provided with the database's stored objects. Information is delivered to the client in a nice layout.
+# DataFlair-News-Aggregator
+This Web application scrapes news articles from websites like theonion.com and present it in a webpage. This webapp combines the concept of django with web crawling. 
+Check out the blogs on DataFlair Website
+this project is explained on the platform DataFlair
+# This project is developed by Karan Mittal
+# Here is the link
